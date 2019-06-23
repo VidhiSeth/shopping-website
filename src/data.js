@@ -32,7 +32,7 @@ export const storeProducts = [
     company: "htc",
     info:
        "The HTC 10 features an aluminum body with a unibody design. The dual front-facing audio speakers from previous HTC smartphones (such as the HTC One M9) have been removed. The phone still has 2 speakers; however, one is on the top bezel, while the other is on the bottom edge of the phone. The HTC 10 also includes a fingerprint sensor under the 5.2-inch 1440x2560 Gorilla Glass 3 screen",
-    inCart: false,,
+    
     inCart: false,
     count: 0,
     total: 0
