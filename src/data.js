@@ -11,7 +11,7 @@ export const storeProducts = [
     price: 10,
     company: "GOOGLE",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      " Pixel uses an aluminium chassis, with a glass panel on the portion of the rear housing the camera and Pixel Imprint fingerprint sensor.",
     inCart: false,
     count: 0,
     total: 0
@@ -23,7 +23,7 @@ export const storeProducts = [
     price: 16,
     company: "SAMSUNG",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Galaxy S7 devices are equipped with an octa-core Exynos 8890 system on a chip and 4GB of RAM the S7 uses the quad-core Qualcomm Snapdragon 820.",
     inCart: false,
     count: 0,
     total: 0
@@ -35,7 +35,8 @@ export const storeProducts = [
     price: 8,
     company: "htc",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+       "The HTC 10 features an aluminum body with a unibody design. The dual front-facing audio speakers from previous HTC smartphones (such as the HTC One M9) have been removed. The phone still has 2 speakers; however, one is on the top bezel, while the other is on the bottom edge of the phone. The HTC 10 also includes a fingerprint sensor under the 5.2-inch 1440x2560 Gorilla Glass 3 screen",
+    inCart: false,,
     inCart: false,
     count: 0,
     total: 0
@@ -47,7 +48,8 @@ export const storeProducts = [
     price: 18,
     company: "htc",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "The HTC 10 features an aluminum body with a unibody design. The dual front-facing audio speakers from previous HTC smartphones (such as the HTC One M9) have been removed. The phone still has 2 speakers; however, one is on the top bezel, while the other is on the bottom edge of the phone. The HTC 10 also includes a fingerprint sensor under the 5.2-inch 1440x2560 Gorilla Glass 3 screen",
+    inCart: false,
     inCart: false,
     count: 0,
     total: 0
@@ -59,7 +61,7 @@ export const storeProducts = [
     price: 24,
     company: "htc",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "The phone has a 5-inch screen with 720p resolution. The rear camera is capable of 8-megapixel photos and  720p HD video (30 frames per second), while the front-facing camera has a 2 MP resolution.",
     inCart: false,
     count: 0,
     total: 0
@@ -71,8 +73,7 @@ export const storeProducts = [
     price: 17,
     company: "apple",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
-    inCart: false,
+      "The iPhone  has an aluminosilicate glass front and back with a stainless steel edge that serves as the antennas.",
     count: 0,
     total: 0
   },
@@ -83,7 +84,7 @@ export const storeProducts = [
     price: 30,
     company: "apple",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "iPhone 7 Plus offers 3 GB of RAM, more than any other previous iPhone the 4.7-inch iPhone 7 has 2 GB.The iPhone 7 includes a 12-megapixel rear-facing camera with a quad-LED True Tone flash.",
     inCart: false,
     count: 0,
     total: 0
@@ -94,8 +95,6 @@ export const storeProducts = [
     img: "img/product-8.png",
     price: 2,
     company: "apple",
-    info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
     inCart: false,
     count: 0,
     total: 0
@@ -109,7 +108,7 @@ export const detailProduct = {
   price: 10,
   company: "google",
   info:
-    "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+     " Pixel uses an aluminium chassis, with a glass panel on the portion of the rear housing the camera and Pixel Imprint fingerprint sensor.",
   inCart: false,
   count: 0,
   total: 0
